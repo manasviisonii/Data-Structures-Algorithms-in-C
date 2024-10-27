@@ -1,4 +1,4 @@
-# Data-Structures-Algorithms-in-C
+# Data-Structures & Algorithms-in-C
 This repository contains implementations of various data structures and algorithms using the C programming language. The focus is on practical applications and performance optimization.
 
 ## Data Structures Implemented:
